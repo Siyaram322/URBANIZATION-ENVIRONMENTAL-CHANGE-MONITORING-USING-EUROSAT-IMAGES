@@ -34,7 +34,7 @@ The primary goal is to identify areas that have undergone land cover change, spe
 ## Results & Findings
 
 The project successfully identifies and categorizes land cover changes. A key outcome is the identification of locations showing strong indicators of urbanization, which are further verified using spectral analysis. An interactive map (`FINAL_URBAN_REPORT_MAP.html`) is generated, distinguishing between general environmental changes and verified urban developments.
-
+You can acces the deployed application:https://siyaram322.github.io/EUROSAT-ENVIRONMENTAL--CHANGE-URBANIZATION--DETECTION/
 ## Technologies Used
 
 *   **Python**
